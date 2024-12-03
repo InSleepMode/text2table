@@ -1,3 +1,0 @@
-a b c d e f
-aa bb cc dd
-aaa bbb ccc ddd eee fff
